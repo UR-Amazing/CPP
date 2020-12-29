@@ -1,0 +1,5 @@
+﻿  Bandit.cpp
+D:\Катя ШАГ\С++\Project6\Project6\Bandit.cpp(43,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Project6.vcxproj -> D:\Катя ШАГ\С++\Project6\Debug\Project6.exe
